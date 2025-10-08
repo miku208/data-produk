@@ -37,29 +37,6 @@
         "24/7"
       ],
       "id": 3
-    },
-    {
-      "name": "Base Bot Whatsapp",
-      "desc": "Base untuk project bot whatsapp multifungsi 20 fitur bisa ditambah",
-      "price": 5000,
-      "specs": [
-        "Simple",
-        "no enc",
-        "free panel 5gb"
-      ],
-      "id": 4
-    },
-    {
-      "name": "Paket entry",
-      "desc": "Cocok buat user baru yang mau coba punya bot sendiri dengan harga terjangkau.",
-      "price": 5000,
-      "specs": [
-        "4gb ram",
-        "3gb disk",
-        "80% cpu",
-        "free script bot whatsapp"
-      ],
-      "id": 5
     }
   ],
   "paymentSettings": {
