@@ -7,14 +7,12 @@
       "name": "Panel Pterodactyl Basic",
       "desc": "Panel hosting dengan performa optimal untuk kebutuhan dasar.",
       "price": 50000,
-      "specs": ["2GB RAM", "20GB NVMe Storage", "1 Core CPU", "Unlimited Bandwidth"]
-    },
-    {
-      "id": 2,
-      "name": "Panel Pterodactyl Premium", 
-      "desc": "Panel hosting dengan spesifikasi tinggi untuk performa maksimal.",
-      "price": 100000,
-      "specs": ["4GB RAM", "50GB NVMe Storage", "2 Core CPU", "Unlimited Bandwidth"]
+      "specs": [
+        "2GB RAM",
+        "20GB NVMe Storage",
+        "1 Core CPU",
+        "Unlimited Bandwidth"
+      ]
     }
   ]
 }
