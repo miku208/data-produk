@@ -25,6 +25,18 @@
         "24/7"
       ],
       "id": 2
+    },
+    {
+      "name": "PANEL 8GB",
+      "desc": "Panel Murah Berkualitas Cocok Untuk Bot Whatsapp Dan Telegram.",
+      "price": 7000,
+      "specs": [
+        "8gb ram",
+        "7gb disk",
+        "200% cpu",
+        "24/7"
+      ],
+      "id": 3
     }
   ]
 }
