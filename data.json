@@ -3,11 +3,13 @@
   "waNumber": "6281234567890",
   "products": [
     {
-      "name": "Test",
-      "desc": "Jsje",
-      "price": 1000,
+      "name": "produk",
+      "desc": "Ppp",
+      "price": 123456,
       "specs": [
-        "4gb"
+        "4gb",
+        "enc",
+        "dll"
       ],
       "id": 1
     }
