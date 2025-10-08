@@ -49,6 +49,21 @@
         "free script"
       ],
       "id": 4
+    },
+    {
+      "name": "Paket High",
+      "desc": "Untuk user yang ingin lebih dari segi server dan keamanan dan garansi jika terjadi kendala.",
+      "price": 15000,
+      "specs": [
+        "unlimited ram",
+        "unlimited disk",
+        "unlimited cpu",
+        "free script",
+        "support 24jam",
+        "20days garansi",
+        "free setup/pemasangan"
+      ],
+      "id": 5
     }
   ],
   "paymentSettings": {
