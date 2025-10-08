@@ -37,6 +37,18 @@
         "24/7"
       ],
       "id": 3
+    },
+    {
+      "name": "Paket Entry",
+      "desc": "Cocok buat user baru yang mau punya bot sendiri dan jika bingung bisa minta pasangkan.",
+      "price": 6000,
+      "specs": [
+        "5gb ram",
+        "3gb disk",
+        "80% cpu",
+        "24jam support"
+      ],
+      "id": 4
     }
   ],
   "paymentSettings": {
