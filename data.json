@@ -3,13 +3,11 @@
   "waNumber": "6281234567890",
   "products": [
     {
-      "name": "Tools termux",
-      "desc": "Tools premium dengan fitur Ddos",
-      "price": 3000,
+      "name": "Test",
+      "desc": "Jsje",
+      "price": 1000,
       "specs": [
-        "Ddos",
-        "Ngl spam",
-        "Enc"
+        "4gb"
       ],
       "id": 1
     }
