@@ -1,18 +1,5 @@
 {
   "bgUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920",
   "waNumber": "6281234567890",
-  "products": [
-    {
-      "id": 1,
-      "name": "Panel Pterodactyl Basic",
-      "desc": "Panel hosting dengan performa optimal untuk kebutuhan dasar.",
-      "price": 50000,
-      "specs": [
-        "2GB RAM",
-        "20GB NVMe Storage",
-        "1 Core CPU",
-        "Unlimited Bandwidth"
-      ]
-    }
-  ]
+  "products": []
 }
