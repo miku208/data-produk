@@ -1,15 +1,5 @@
 {
   "bgUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920",
   "waNumber": "6285189063747",
-  "products": [
-    {
-      "name": "Yup",
-      "desc": "Jeu",
-      "price": 666,
-      "specs": [
-        "Jwjw"
-      ],
-      "id": 1
-    }
-  ]
+  "products": []
 }
