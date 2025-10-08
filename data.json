@@ -38,5 +38,22 @@
       ],
       "id": 3
     }
-  ]
+  ],
+  "paymentSettings": {
+    "dana": {
+      "number": "085701279290",
+      "name": "Kurxxx"
+    },
+    "ovo": {
+      "number": "",
+      "name": ""
+    },
+    "gopay": {
+      "number": "",
+      "name": ""
+    },
+    "qris": {
+      "url": ""
+    }
+  }
 }
