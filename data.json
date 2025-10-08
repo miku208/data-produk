@@ -3,16 +3,16 @@
   "waNumber": "6285189063747",
   "products": [
     {
-      "name": "PANEL 8GB",
+      "name": "PANEL 9GB",
       "desc": "Panel Murah Berkualitas Cocok Untuk Bot Whatsapp Dan Telegram.",
-      "price": 7000,
+      "price": 8000,
       "specs": [
-        "8gb ram",
-        "7gb disk",
-        "200%cpu",
+        "9gb ram",
+        "8gb disk",
+        "230%cpu",
         "24/7"
       ],
-      "id": 2
+      "id": 1
     }
   ]
 }
