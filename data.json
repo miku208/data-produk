@@ -1,17 +1,5 @@
 {
   "bgUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920",
   "waNumber": "6281234567890",
-  "products": [
-    {
-      "name": "produk",
-      "desc": "Ppp",
-      "price": 123456,
-      "specs": [
-        "4gb",
-        "enc",
-        "dll"
-      ],
-      "id": 2
-    }
-  ]
+  "products": []
 }
