@@ -64,6 +64,19 @@
         "free setup/pemasangan"
       ],
       "id": 5
+    },
+    {
+      "name": "Script Ddos",
+      "desc": "Script bot whatsapp multifungsi.",
+      "price": 5000,
+      "specs": [
+        "Ddos menu",
+        "Owner menu",
+        "Other menu",
+        "3 method",
+        "Database security"
+      ],
+      "id": 6
     }
   ],
   "paymentSettings": {
