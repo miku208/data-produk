@@ -1,5 +1,18 @@
 {
   "bgUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920",
   "waNumber": "6285189063747",
-  "products": []
+  "products": [
+    {
+      "name": "PANEL 8GB",
+      "desc": "Panel Murah Berkualitas Cocok Untuk Bot Whatsapp Dan Telegram.",
+      "price": 7000,
+      "specs": [
+        "8gb ram",
+        "7gb disk",
+        "200%cpu",
+        "24/7"
+      ],
+      "id": 1
+    }
+  ]
 }
