@@ -77,6 +77,18 @@
         "Database security"
       ],
       "id": 6
+    },
+    {
+      "name": "Panel 7gb",
+      "desc": "Ini adalah promo tiap bulan promo akan di acak setiap bulan nya bisa jadi bulan depan kan mobil harga 1k 🗿",
+      "price": 5000,
+      "specs": [
+        "7gb ram",
+        "4gb disk",
+        "150% cpu",
+        "24/7"
+      ],
+      "id": 7
     }
   ],
   "paymentSettings": {
